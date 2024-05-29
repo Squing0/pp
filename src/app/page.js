@@ -1,3 +1,5 @@
+// import image from "../app/github.png";
+
 export default function Home() {
   return (
     <main>
@@ -35,12 +37,12 @@ export default function Home() {
 
         </article>
         <footer>
-          <section>
             <h2>Contact me</h2>
-            {/* <img src="./linkedin-icon-2048x2048-tillvbc0.png"></img>
-            <img src="./gmail.png"></img>
-            <img src="./github.png"></img> */}
-          </section>
+            <section className="contactImages">
+              <img src="/linkedin-icon-2048x2048-tillvbc0.png" alt=""></img>
+              <img src="/gmail.png" alt=""></img>
+              <img src="/github.png" alt=""></img>
+            </section>
         </footer>
     </main>
   );

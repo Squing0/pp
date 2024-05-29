@@ -28,6 +28,15 @@ h2{
     padding: 1rem;
     text-decoration: underline;
 }
+footer img{
+    width: 2rem;
+    height: 2rem;
+    margin: 0.5rem;
+}
+.contactImages{
+    display: flex;
+    justify-content: flex-end;
+}
 .nameHeading, .personalDescription{
     text-align: center;
 }
