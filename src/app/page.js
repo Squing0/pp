@@ -37,9 +37,9 @@ export default function Home() {
         <footer>
           <section>
             <h2>Contact me</h2>
-            <img src="./linkedin-icon-2048x2048-tillvbc0.png"></img>
+            {/* <img src="./linkedin-icon-2048x2048-tillvbc0.png"></img>
             <img src="./gmail.png"></img>
-            <img src="./github.png"></img>
+            <img src="./github.png"></img> */}
           </section>
         </footer>
     </main>
