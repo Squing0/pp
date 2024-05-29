@@ -9,26 +9,26 @@ export default function Home() {
         </nav>
       </header>
         <article>
-          <h2 class="aboutHeading">About</h2>
-          <h3 class="nameHeading">Hi, I'm Lyle Patterson.</h3>
-          <p class="personalDescription">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis sem. Sed commodo ultricies maximus. Aliquam consequat in ante sed blandit. 
+          <h2 className="aboutHeading">About</h2>
+          <h3 className="nameHeading">Hi, I'm Lyle Patterson.</h3>
+          <p className="personalDescription">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis sem. Sed commodo ultricies maximus. Aliquam consequat in ante sed blandit. 
           Suspendisse eu ipsum in lectus dignissim hendrerit id vitae erat.</p>
         </article>
         <article>
           <h2>Projects</h2>
-          <section class="project">
+          <section className="project">
             <h3>Project 1</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis sem. Sed commodo ultricies maximus. Aliquam consequat in ante sed blandit. </p>
           </section>
-          <section class="project">
+          <section className="project">
             <h3>Project 2</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis sem. Sed commodo ultricies maximus. Aliquam consequat in ante sed blandit. </p>
           </section>
-          <section class="project">
+          <section className="project">
             <h3>Project 3</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis sem. Sed commodo ultricies maximus. Aliquam consequat in ante sed blandit. </p>
           </section>
-          <section class="project">
+          <section className="project">
             <h3>Project 4</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at convallis sem. Sed commodo ultricies maximus. Aliquam consequat in ante sed blandit. </p>
           </section>
